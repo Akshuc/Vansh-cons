@@ -6,7 +6,7 @@ const heroContent = {
     text: {
         subheading: "welcome to Vansh Constructions",
         heading: "We transform your vision into reality with expert craftsmanship and dedication",
-        description: "आवाज़ करें वंश निर्माण कंपनी की – सपनों को उँचाइयों तक ले जाने, यथार्थ बनाने में मदद करने में। हमारी शिल्पकला की विरासत के साथ, हम वास्तुकला के चमत्कारी कामों को बुनते हैं जो समय के साक्षी के रूप में खड़े रहते हैं। एक ऐसे दुनिया में कदम रखें जहाँ कल्पना और उद्भवन का संगम होता है"
+        description: "Assisting in taking dreams to greater heights, aiding in their actualization. With our heritage of craftsmanship, we create architectural marvels that stand as witnesses through time. Step into a world where imagination and manifestation converge"
     },
     images: {
         img1: '/images/hero-1.jpg',
